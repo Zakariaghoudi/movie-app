@@ -82,9 +82,6 @@ h1 {
   box-shadow: 0 1px 4px rgba(0,0,0,0.07);
   transition: box-shadow 0.2s;
 
-.add-movie-form input {
-}
-
 .add-movie-form input:focus {
   outline: none;
   box-shadow: 0 0 0 2px #0056b3;
@@ -163,6 +160,7 @@ h1 {
   font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
   text-align: center;
   padding-bottom: 40px;
+}
 .movie-card-content {
   padding: 15px;
   flex-grow: 1; /* Allows content to take up remaining space */
